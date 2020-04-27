@@ -2,7 +2,7 @@
 
 This is a Directory for the sinple source code editor written in Python 2.x (Python 3.x also supported).
 
-##To run the above code user must have installed followings:
+## To run the above code user must have installed followings:
 - $ sudo apt install Python-pip or Python3-pip
 - $ sudo apt install Python-tk or python3-tk
 
