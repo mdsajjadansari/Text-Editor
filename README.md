@@ -1,4 +1,7 @@
-# Text Editor
+# Text Editor 
+
+![Text Editor](https://www.inofficelab.com/v/vspfiles/images/animated-icons/notepad/animat-notepad-color.gif)
+
 
 This is a Directory for the Text Editor written in Python 2.x (Python 3.x also supported) using tkinter, Here i have used a piece table data structure to storeand manipulate data in the text Editor. It has the features like:
 * save
